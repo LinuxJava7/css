@@ -17,6 +17,8 @@
   --destructive-bg-color: rgb(224, 27, 36);
   --destructive-fg-color: rgb(239, 241, 245);
 
-
-  
+  /* cards*/
+  --card_bg_color: #ffffff;
+  --card_fg_color: RGB(0 0 6 / 80%);
 }
+
