@@ -1,3 +1,1 @@
-:root {
-  --accent-blue: #3584e4;
-}
+@import "colors.css"
