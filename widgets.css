@@ -1,1 +1,18 @@
 @import "https://cdn.jsdelivr.net/gh/LinuxJava7/css@main/buttons.css";
+
+@import "./buttons.css";
+
+:root {
+  --card-radius: 12px;
+}
+
+.card {
+  background-color: var(--card-bg-color);
+  color: var(--card-fg-color);
+  border-radius: var(--card-radius);
+  box-shadow:
+    0 0 0 1px rgb(0 0 6 / 3%),
+    0 1px 3px 1px rgb(0 0 6 / 7%),
+    0 2px 6px 2px rgb(0 0 6 / 3%);
+}
+
