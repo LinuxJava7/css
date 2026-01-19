@@ -1,2 +1,6 @@
 @import "https://cdn.jsdelivr.net/gh/LinuxJava7/css@main/colors.css";
 @import "https://cdn.jsdelivr.net/gh/LinuxJava7/css@main/widgets.css";
+
+@import "./colors.css";
+@import "./widgets.css";
+
