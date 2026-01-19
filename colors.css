@@ -9,4 +9,14 @@
   --accent-purple: #9141ac;
   --accent-slate: #6f8396;
 
+  --accent-color: rgb(53, 132, 228);
+  --accent-bg-color: rgb(53, 132, 228);
+  --accent-fg-color: rgb(239, 241, 245);
+
+  --destructive-color: rgb(224, 27, 36);
+  --destructive-bg-color: rgb(224, 27, 36);
+  --destructive-fg-color: rgb(239, 241, 245);
+
+
+  
 }
